@@ -23,14 +23,15 @@
 
 ### Stack
 
-**Embedded**
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
-<img src="https://img.shields.io/badge/PlatformIO-ffffff?style=flat&labelColor=000000&logo=platformio&logoColor=ffffff" height="40" />
-
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=cpp,c,python,java,bash&theme=dark" />
+
+**Embedded**
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
+
+<sub>PlatformIO · ESP32 · AVR</sub>
 
 **Tooling**
 
