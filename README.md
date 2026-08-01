@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
 <pre>
 ██╗   ██╗███╗   ██╗██████╗  ██████╗ ███████╗███████╗██████╗ 
 ██║   ██║████╗  ██║██╔══██╗██╔═══██╗██╔════╝██╔════╝██╔══██╗
@@ -7,10 +7,10 @@
 ╚██████╔╝██║ ╚████║██║     ╚██████╔╝███████║███████╗██████╔╝
  ╚═════╝ ╚═╝  ╚═══╝╚═╝      ╚═════╝ ╚══════╝╚══════╝╚═════╝ 
 </pre>
-</p>
+</div>
 
 <p align="center">
-  <em>Embedded Systems · Electrical Engineering · Linux</em>
+  Embedded Systems &nbsp;·&nbsp; Electrical Engineering &nbsp;·&nbsp; Linux
 </p>
 
 <p align="center">
@@ -30,10 +30,21 @@ as a proper PCB.
 Apart from that I live in the terminal. Debian with i3, configured down to the
 last colour, versioned in my own dotfiles repo.
 
-<table>
-  <tr><td><b>Now</b></td><td>ESP32, C++, PlatformIO</td></tr>
-  <tr><td><b>Next</b></td><td>KiCad and custom PCBs</td></tr>
-  <tr><td><b>Goal</b></td><td>Electrical engineering degree</td></tr>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <b>NOW</b><br><br>
+      ESP32<br>C++<br>PlatformIO
+    </td>
+    <td align="center" width="33%">
+      <b>NEXT</b><br><br>
+      KiCad<br>PCB design<br>Custom boards
+    </td>
+    <td align="center" width="33%">
+      <b>GOAL</b><br><br>
+      Electrical<br>engineering<br>degree
+    </td>
+  </tr>
 </table>
 
 ---
