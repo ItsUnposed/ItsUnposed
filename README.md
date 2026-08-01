@@ -21,34 +21,6 @@
 
 ---
 
-### About
-
-I build things that turn electricity into behaviour. Microcontrollers, sensors,
-motors, and the code in between. Whatever starts on a breadboard should end up
-as a proper PCB.
-
-Apart from that I live in the terminal. Debian with i3, configured down to the
-last colour, versioned in my own dotfiles repo.
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <b>NOW</b><br><br>
-      ESP32<br>C++<br>PlatformIO
-    </td>
-    <td align="center" width="33%">
-      <b>NEXT</b><br><br>
-      KiCad<br>PCB design<br>Custom boards
-    </td>
-    <td align="center" width="33%">
-      <b>GOAL</b><br><br>
-      Electrical<br>engineering<br>degree
-    </td>
-  </tr>
-</table>
-
----
-
 ### Stack
 
 **Embedded**
@@ -72,3 +44,43 @@ last colour, versioned in my own dotfiles repo.
 ---
 
 <img src="https://github-readme-stats-posed.vercel.app/api/top-langs/?username=ItsUnposed&layout=compact&hide_border=true&langs_count=6&card_width=900&bg_color=000000&title_color=ffffff&text_color=ffffff&v=5" width="100%" />
+
+---
+
+### About
+
+> I build things that turn electricity into behaviour.
+> Microcontrollers, sensors, motors, and the code in between.
+> Whatever starts on a breadboard should end up as a proper PCB.
+>
+> Apart from that I live in the terminal. Debian with i3,
+> configured down to the last colour, versioned in my own dotfiles repo.
+
+<table align="center">
+  <tr>
+    <td align="center" width="250"><b>NOW</b></td>
+    <td align="center" width="250"><b>NEXT</b></td>
+    <td align="center" width="250"><b>GOAL</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      ESP32<br>
+      C++ and PlatformIO<br>
+      Desk robot with OLED face
+    </td>
+    <td align="center">
+      KiCad<br>
+      Schematics and routing<br>
+      First custom board
+    </td>
+    <td align="center">
+      Electrical engineering<br>
+      Power and hardware<br>
+      Build my own products
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>Reach me through the issues tab of any repo.</sub>
+</p>
