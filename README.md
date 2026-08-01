@@ -25,15 +25,16 @@
 
 **Embedded**
 
-<img src="https://skillicons.dev/icons?i=cpp,c,arduino,raspberrypi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
+<img src="https://img.shields.io/badge/PlatformIO-ffffff?style=flat&labelColor=000000&logo=platformio&logoColor=ffffff" height="40" />
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,bash&theme=dark" />
 
 **Tooling**
 
-<img src="https://skillicons.dev/icons?i=linux,debian,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,debian,git,github,idea&theme=dark" />
 
 ---
 
