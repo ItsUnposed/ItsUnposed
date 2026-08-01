@@ -1,5 +1,4 @@
 <h1 align="center">Unposed</h1>
-<p align="center">Elektrotechnik · Embedded · Linux</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ItsUnposed&color=ffffff&style=for-the-badge&label=PROFILE+VIEWS" />
