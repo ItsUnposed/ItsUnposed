@@ -9,8 +9,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-posed.vercel.app/api?username=ItsUnposed&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="180" />
-  <img src="https://github-readme-stats-posed.vercel.app/api/top-langs/?username=ItsUnposed&layout=compact&hide_border=true&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff" height="180" />
+  <img src="https://github-readme-stats-posed.vercel.app/api?username=ItsUnposed&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&v=2" height="180" />
+  <img src="https://github-readme-stats-posed.vercel.app/api/top-langs/?username=ItsUnposed&layout=compact&hide_border=true&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&v=2" height="180" />
 </p>
 
 <p align="center">
