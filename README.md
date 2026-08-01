@@ -27,19 +27,13 @@
 
 <img src="https://skillicons.dev/icons?i=cpp,c,python,java,bash&theme=dark" />
 
-`C++` `C` `Python` `Java` `Bash`
-
 **Embedded**
 
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
 
-`Arduino` `Raspberry Pi` `ESP32` `PlatformIO` `AVR`
-
 **Tooling**
 
-<img src="https://skillicons.dev/icons?i=linux,debian,git,github,idea&theme=dark" />
-
-`Linux` `Debian` `Git` `GitHub` `CLion`
+<img src="https://skillicons.dev/icons?i=linux,debian,git,github,clion,pycharm,idea&theme=dark" />
 
 ---
 
