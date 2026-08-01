@@ -66,12 +66,10 @@
     <td align="center">
       ESP32<br>
       C++ and PlatformIO<br>
-      Desk robot with OLED face
     </td>
     <td align="center">
       KiCad<br>
       Schematics and routing<br>
-      First custom board
     </td>
     <td align="center">
       Electrical engineering<br>
