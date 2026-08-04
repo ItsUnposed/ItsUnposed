@@ -25,7 +25,7 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,bash&theme=dark" />
 
 **Embedded**
 
