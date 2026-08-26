@@ -39,10 +39,6 @@
 
 ### Stats
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsUnposed&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" />
-
----
-
 <img src="https://github-readme-stats-posed.vercel.app/api/top-langs/?username=ItsUnposed&layout=compact&hide_border=true&langs_count=6&card_width=900&bg_color=000000&title_color=ffffff&text_color=ffffff&v=5" width="100%" />
 
 ---
