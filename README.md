@@ -61,7 +61,7 @@
   <tr>
     <td align="center">
       ESP32<br>
-      C++ and PlatformIO
+      C++ and PlatformIO<br>
       Python and Datascience Libraries<br>
     </td>
     <td align="center">
