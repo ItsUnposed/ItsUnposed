@@ -45,12 +45,12 @@
 
 ### About
 
-> I build things that turn electricity into behaviour.
-> Microcontrollers, sensors, motors, and the code in between.
+> I love to build things that turn electricity into "behaviour".
+> Microcontrollers, sensors, motors and the code in between.
 > Whatever starts on a breadboard should end up as a proper PCB.
 >
 > Apart from that I live in the terminal. Debian with i3,
-> configured down to the last colour, versioned in my own dotfiles repo.
+> configured down to the last colour, versioned in my own dotfiles repo (Claude helped a lot there).
 
 <table align="center">
   <tr>
