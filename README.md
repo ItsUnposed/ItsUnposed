@@ -69,7 +69,7 @@
       Schematics and routing<br>
     </td>
     <td align="center">
-      Electrical Engineering<br>
+      Becoming an electrical Engineer<br>
     </td>
   </tr>
 </table>
