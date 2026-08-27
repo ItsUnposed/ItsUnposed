@@ -62,7 +62,7 @@
     <td align="center">
       ESP32<br>
       C++ and PlatformIO<br>
-      Python and Datascience Libraries<br>
+      Python and Datascience<br>
     </td>
     <td align="center">
       KiCad<br>
