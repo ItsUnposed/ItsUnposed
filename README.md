@@ -60,9 +60,9 @@
   </tr>
   <tr>
     <td align="center">
-      ESP32<br>
+      ESP32 and Arduino<br>
       C++ and PlatformIO<br>
-      Python and Datascience<br>
+      Python and Data Science<br>
     </td>
     <td align="center">
       KiCad<br>
