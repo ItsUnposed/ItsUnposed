@@ -69,9 +69,7 @@
       Schematics and routing<br>
     </td>
     <td align="center">
-      Electrical engineering<br>
-      Power and hardware<br>
-      Build my own products
+      Electrical Engineering<br>
     </td>
   </tr>
 </table>
