@@ -66,7 +66,7 @@
     </td>
     <td align="center">
       KiCad<br>
-      Schematics and routing<br>
+      Fusion360<br>
     </td>
     <td align="center">
       Becoming an electrical Engineer<br>
